@@ -32,6 +32,19 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				azure: {
+					DEFAULT: '#0078D4',
+					50: '#E6F2FB',
+					100: '#CCE5F7',
+					200: '#99CBED',
+					300: '#66B1E3',
+					400: '#3397D9',
+					500: '#0078D4',
+					600: '#0063AB',
+					700: '#004E86',
+					800: '#003A62',
+					900: '#00253D',
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
